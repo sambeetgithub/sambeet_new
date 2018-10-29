@@ -1,2 +1,3 @@
-first commir
+first commit
 edited by developer2
+edited by developer1
