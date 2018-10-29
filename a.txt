@@ -3,7 +3,11 @@ edited by developer2
 
 edited again by dev2
 edited again by dev1
+<<<<<<< HEAD
 
 gnddh,bjkud
 
 file edited by dev2 at 8.19.10 pm
+=======
+file edited by dev2 at 8.10.12 pm
+>>>>>>> 011560eceec6468f83596782de28208a24796eed
