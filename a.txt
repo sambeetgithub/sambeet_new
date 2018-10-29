@@ -10,4 +10,8 @@ gnddh,bjkud
 file edited by dev2 at 8.19.10 pm
 =======
 file edited by dev2 at 8.10.12 pm
+<<<<<<< HEAD
 >>>>>>> 011560eceec6468f83596782de28208a24796eed
+=======
+file edited by dev1 for central conflict issue
+>>>>>>> f3
